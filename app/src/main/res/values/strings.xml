@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile Activity Blocker</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="login_edtEmail">login_edtEmail</string>
+    <string name="login_edtPass">login_edtPass</string>
+</resources>
